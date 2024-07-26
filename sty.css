@@ -1,0 +1,58 @@
+.box{
+    height: 450px;
+    width: 280px;
+    border: 1px solid lightgrey;
+    margin: 100px;
+    background-color: lightgrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    }
+.inbox0{
+    border:rgb(192, 187, 187) ;  
+    margin: 10px;
+    padding-top: 30px;
+    padding-right:40px;
+    background-color:rgb(192, 187, 187);
+    font-size: large;
+    
+}
+.inbox1{
+    height: 35px;
+    width: 2px;
+    border: 1px solid rgb(223, 218, 218);
+    margin: 20px;
+    background-color: lightgrey;
+    padding-right: 18%;
+}
+.inbox2{
+    height: 35px;
+    width: 2px;
+    border: 1px solid rgb(223, 218, 218);
+    margin: -20px;
+    background-color: lightgrey;
+    padding-right: 18%;
+}
+.inbox3{
+    height: 35px;
+    width: 2px;
+    border: 1px solid rgb(223, 218, 218);
+    margin: 20px;
+    background-color: lightgrey;
+    padding-right: 18%;
+}
+.inbox4{
+    height: 35px;
+    width: 2px;
+    border: 1px solid rgb(223, 218, 218);
+    margin: -20px;
+    background-color: lightgrey;
+    padding-right: 18%;
+}
+.inbox5{
+    height: 35px;
+    width: 2px;
+    border: 1px solid rgb(40, 176, 234);
+    margin: 20px;
+    background-color: rgb(40, 176, 234);
+    padding-right: 32%;
+}
